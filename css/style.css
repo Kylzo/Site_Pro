@@ -608,4 +608,9 @@
             .navUn {
                 flex-direction: column;
             }
+
+            a {
+                padding-left: 0px ;
+                padding: 7px;
+            }
         }
